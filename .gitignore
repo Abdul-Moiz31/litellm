@@ -1,7 +1,6 @@
 .python-version
 .venv
 .venv_policy_test
-.env
 .claude
 .newenv
 newenv/*
@@ -101,3 +100,7 @@ STABILIZATION_TODO.md
 **/playwright-report
 **/*.storageState.json
 **/coverage
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
